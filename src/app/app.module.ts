@@ -12,6 +12,7 @@ import { HomeComponent } from './home/home.component';
 import { ProjectComponent } from './project/project.component';
 import { BlogComponent } from './blog/blog.component';
 import { MyselfComponent } from './myself/myself.component';
+import {MatSidenavModule} from "@angular/material/sidenav";
 
 @NgModule({
   declarations: [
@@ -22,14 +23,15 @@ import { MyselfComponent } from './myself/myself.component';
     BlogComponent,
     MyselfComponent
   ],
-  imports: [
-    BrowserModule,
-    BrowserAnimationsModule,
-    MatSliderModule,
-    MatMenuModule,
-    MatButtonModule,
-    AppRoutingModule,
-  ],
+    imports: [
+        BrowserModule,
+        BrowserAnimationsModule,
+        MatSliderModule,
+        MatMenuModule,
+        MatButtonModule,
+        AppRoutingModule,
+        MatSidenavModule,
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })
