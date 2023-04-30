@@ -66,6 +66,8 @@ MIT
 @angular/router
 MIT
 
+@scullyio/ng-lib
+
 rxjs
 Apache-2.0
                                Apache License

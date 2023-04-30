@@ -10,7 +10,8 @@ const routes: Routes = [
   {path: '', component: HomeComponent},
   {path: 'projects', component: ProjectComponent},
   {path: 'blog', component: BlogComponent},
-  {path: 'me', component: MyselfComponent}
+  {path: 'me', component: MyselfComponent},
+  {path: '**', redirectTo: ''}
 ];
 
 @NgModule({
