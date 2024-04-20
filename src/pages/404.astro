@@ -1,0 +1,28 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import BaseHead from "../components/BaseHead.astro";
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} />
+  </head>
+
+  <body>
+    <Header />
+    <main class="container">
+      <section class="content">
+        <h4>Page not found!</h4>
+        <p>
+          Trang bạn tìm kiếm không tồn tại.&hellip;
+          <a aria-label="Return to home page" href="/"
+            >Back&nbsp;to homepage.
+          </a>
+        </p>
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>
