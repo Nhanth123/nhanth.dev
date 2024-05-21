@@ -6,7 +6,7 @@ pubDate: 'May 19 2024'
 heroImage: '/2024-05-19-New-to-godot.jpg'
 ---
 
-##### Trải nghiệm thử một game engine mới Godot: <img class="nav-logo" src="/public/images/godot_logo_dark.svg" width="124" height="124" alt="Godot Engine">
+##### Trải nghiệm thử một game engine mới Godot: <img src="/images/godot_logo_dark.svg" width="124" height="124" alt="Godot Engine">
 
 - Trong 3 tháng vừa qua, mình dành thời gian để học game engine mới <a href="https://godotengine.org/" target="_blank">Godot</a>.
 Cảm giác như Godot rất dễ tiếp cận, giao diện thì friendly, gần giống với Windows Form - .NET. Ngôn ngữ của Godot là GDScript kiểu Python-Like.
