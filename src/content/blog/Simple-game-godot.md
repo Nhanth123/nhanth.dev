@@ -4,7 +4,7 @@ description: Simple game in Godot'
 pubDate: 'August 11 2024'
 heroImage: '/2024-08-11-godot-layout.png'
 ---
-##### Simple game by Godot
+##### Game : Space shooter
 - Vậy là mình cũng dev được Godot được khoảng 5 tháng rồi. Trải nghiệm của mình thấy game engine rất là Ok.
 Dễ làm quen, release demo nhanh. 
 - Tuy nhiên để cho cho sản phầm chất lượng cao, cần rất nhiều thời gian để làm lắm.
