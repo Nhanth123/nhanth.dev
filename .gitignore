@@ -20,3 +20,8 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+/.vs/*.json
+/.vs/nhanth.dev/FileContentIndex/*.vsidx
+/.vs/nhanth.dev/FileContentIndex/*.lock
+/.vs/nhanth.dev/v17/*.wsuo
+/.vs/*.sqlite
