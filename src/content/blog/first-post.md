@@ -2,7 +2,7 @@
 title: 'First post'
 description: 'This is a first post of December 2023'
 pubDate: 'December 12 2023'
-heroImage: '/2023-12-12_firstpost.jpg'
+heroImage: '../../assets/images/2023-12-12_firstpost.jpg'
 ---
 This is a first post ever on my page.
 

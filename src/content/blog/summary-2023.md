@@ -3,7 +3,7 @@
 title: 'Summary 2023'
 description: Summary of 2023'
 pubDate: 'December 24 2023'
-heroImage: '/2023-12-24_Summary-2023.jpg'
+heroImage: '../../assets/2023-12-24_Summary-2023.jpg'
 ---
 
 ##### Tổng kết năm 2023 những việc mình đã hoàn thành:
@@ -22,6 +22,6 @@ flask run --debug
 Tạm thời vậy đã.
 Hi vọng trong năm tới 2024 sẽ có sản phẩm của bản thân :D
 
-![2023_Duolingo](/2023-12_Duolingo.jpg "2023_Duolingo" )
+![2023_Duolingo](../../assets/2023-12_Duolingo.jpg "2023_Duolingo" )
 
 _Photo by <a href="https://unsplash.com/@lauraseaman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Laura Seaman</a> on <a href="https://unsplash.com/photos/a-bunch-of-hot-air-balloons-flying-in-the-sky-IqWCSnU3Jiw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>_
