@@ -9,8 +9,6 @@ Ngoảnh đi ngoảnh lại đã 7 tháng kể từ lần cuối mình đăng b�
 Dậy là chỉ còn 2 tháng nữa thôi là sang năm 2026, vẫn chưa học hỏi được gì lắm trong năm này 😁.  
 Mới hôm qua, mình nhận được update từ google rằng page đã cán được 5 clicks/month 😂. Cùng gắng tới cột mốc tiếp theo 10clicks/month nào 👍
 
-
-
 ![2025_new-milestone](https://res.cloudinary.com/dwyjr7wio/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1760284232/nhanth.dev/milestone_l00ry1.png "new-milestone")
 
 

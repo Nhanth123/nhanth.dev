@@ -19,9 +19,9 @@
 @import "tailwindcss";
 
 /* (Optional) Define custom theme variables or source paths here */
-@theme {
+/*@theme {
   --font-sans: 'Inter', sans-serif;
-}
+}*/
 
 @font-face {
 	font-family: 'Atkinson';

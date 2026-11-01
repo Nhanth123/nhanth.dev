@@ -5,12 +5,12 @@ pubDate: 'August 11 2024'
 heroImage: '../../assets/2024-08-11-godot-layout.png'
 ---
 ##### Game : Space shooter
-- Vậy là mình cũng dev Godot được khoảng 5 tháng rồi. Trải nghiệm của mình thấy game engine rất là Okie.
-Dễ làm quen, release demo nhanh. 
+- Vậy là mình cũng dev Godot được khoảng 5 tháng rồi. 
+Trải nghiệm của mình thấy game engine rất là Okie.Dễ làm quen, release demo nhanh. 
 - Tuy nhiên để cho cho sản phầm chất lượng cao, cần rất nhiều thời gian để làm lắm.
 - Đây là link của game để chơi thử. https://nhanth.itch.io/spaceshooter ✨
 
-![Space_Shooter](/images/2024-08-11-space-shooter.png "Space_Shooter" )
+- ![Space_Shooter](../../assets/images/2024-08-11-space-shooter.png "Space_Shooter" )
 
 _Cảm ơn bạn đã đọc bài viết này của mình._
 
