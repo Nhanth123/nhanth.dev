@@ -2,7 +2,7 @@
 title: 'New milestone'
 description: 'October of 2025'
 pubDate: 'October 12 2025'
-heroImage: '/2025-10_New-milestone.jpg'
+heroImage: '../../assets/2025-10_New-milestone.jpg'
 ---
 ##### Milestone trên webapp nhanth.dev:
 Ngoảnh đi ngoảnh lại đã 7 tháng kể từ lần cuối mình đăng bài, thật quá nhanh.  

@@ -2,7 +2,7 @@
 title: 'Simple game in Godot'
 description: Simple game in Godot'
 pubDate: 'August 11 2024'
-heroImage: '/2024-08-11-godot-layout.png'
+heroImage: '../../assets/2024-08-11-godot-layout.png'
 ---
 ##### Game : Space shooter
 - Vậy là mình cũng dev Godot được khoảng 5 tháng rồi. Trải nghiệm của mình thấy game engine rất là Okie.
